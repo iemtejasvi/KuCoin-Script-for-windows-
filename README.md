@@ -26,7 +26,7 @@ This Python script automates interaction with the official KuCoin "xKucoin" acco
 2. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/iemtejas/KuCoin-Script.git
+   git clone https://github.com/iemtejasvi/KuCoin-Script.git
    cd KuCoin-Script
    ```
 
